@@ -1,0 +1,9 @@
+.*
+!.gitignore
+!.gitattributes
+!.github
+
+*.aux
+*.gz
+*.log
+*.out
